@@ -1,0 +1,48 @@
+*{
+    background-color: #030f27;
+}
+
+.logo{
+    margin-left: 40px;
+    margin-top: 50px;
+}
+.titulo01{
+    text-align: center;
+    margin-top: 150px;
+    color: #fff;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 36px;
+    font-weight: 900;
+    text-shadow: -2px 3px 3px #000;
+    mix-blend-mode: luminosity;
+}
+
+.titulo02{
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100hv;
+    margin-top: 50px;
+    text-shadow: -2px 3px 3px #000;
+}
+
+button{
+         background-color: rgb(255, 255, 255);
+        color: #000000;
+        border-radius: 21px;
+        border: none;
+        padding: 20px 80px;
+        font-size: 25px;
+        font-family: "Montserrat", Sans-serif;
+}
+
+footer{
+    border: 2px solid #ffffff;
+    margin: 100px;
+}
